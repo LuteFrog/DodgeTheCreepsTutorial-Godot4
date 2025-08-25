@@ -1,0 +1,18 @@
+# Godot-specific
+.import/
+.export/
+*.tmp
+*.import
+
+# Godot cache and editor files
+.godot/*
+!.godot/imported
+!.godot/editor
+.godot/editor/*
+.godot/imported/*
+.godot/shader_cache/*
+.godot/uid_cache.bin
+
+# OS files
+.DS_Store
+Thumbs.db
